@@ -1,0 +1,72 @@
+header {
+    background-color: BlueViolet;
+    text-align: center;
+    padding: 10px;
+}
+
+header b {
+    text-shadow: 1px 1px 1px purple;
+}
+
+header a{
+    background-color: LightSkyBlue;
+    color: MediumBlue;
+    padding: 5px;
+    border: 2px solid Indigo;
+    border-radius: 10px;
+}
+
+h1 {
+    color: Yellow;
+    background-color:black ;
+    text-align: center;
+    border-radius: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+
+footer {
+    background-color: Snow;
+}
+
+footer p {
+    background-color: black;
+    border: 5px solid yellow;
+    color: yellow;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    border: 4px dashed yellow;
+}
+
+nav a {
+    background-color: black;
+    font-size: 13px;
+    color: yellow;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px dotted ;
+
+}
+
+.boom {
+    background-color: PowderBlue;
+    padding: 22px;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: yellow;
+    background-color: black;
+    border-radius: 33px;
+}
